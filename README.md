@@ -25,7 +25,3 @@ For a demonstration of its use, take a look at the contents of the python-test d
 ## How does it work?
 
 Open the HTKFeaturesExplained notebook in the python-notebooks folder and play around with it. Everythin is explained there.
-
-## Who made this?
-
-If you have any questions, feel free to contact me at: danijel@pja.edu.pl
