@@ -1,6 +1,4 @@
-# PyHTK
-
-HTK features in Python
+# HTK features in Python
 
 This project contains a Python implementation of the MFCC features as computed by HTK.
 
